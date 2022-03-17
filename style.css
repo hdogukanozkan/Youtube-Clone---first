@@ -242,6 +242,10 @@ hr {
     cursor: pointer;
 }
 
+.card:hover .card-img{
+    transform: scale(1.05);
+}
+
 .card .card-img img {
     width: 100%;
 }
