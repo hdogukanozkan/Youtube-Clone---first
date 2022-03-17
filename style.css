@@ -350,6 +350,10 @@ hr {
         margin-left: 0;
     }
 
+    .header .container .right{
+        margin-right: 0;
+    }
+
     .left i{
         font-size: 2rem;
     }
