@@ -73,9 +73,7 @@ hr {
 
 /*  -------  CENTER   ------- */
 
-.header .container .left{
-    margin-left: 0;
-}
+
 .header .container .center .box {
     display: flex;
     justify-content: center;
@@ -347,7 +345,10 @@ hr {
     html {
         font-size: 60%;
     }
-
+    
+    .header .container .left{
+        margin-left: 0;
+    }
     .header .container .center .box form {
         height: 35px;
     }
