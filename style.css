@@ -73,6 +73,9 @@ hr {
 
 /*  -------  CENTER   ------- */
 
+.header .container .left{
+    margin-left: 0;
+}
 .header .container .center .box {
     display: flex;
     justify-content: center;
