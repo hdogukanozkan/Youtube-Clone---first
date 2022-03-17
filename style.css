@@ -364,6 +364,12 @@ hr {
         height: 35px;
     }
 
+    .right .avatar{
+        width: 40px;
+        height: 40px;
+        margin-right: 0;
+    }
+
     .header .container .center .box form {
         height: 35px;
     }
