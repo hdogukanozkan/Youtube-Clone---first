@@ -349,6 +349,20 @@ hr {
     .header .container .left{
         margin-left: 0;
     }
+
+    .left i{
+        font-size: 2rem;
+    }
+
+    .left .yt-icon{
+        width: 110px;
+    }
+
+    .right .icon{
+        width: 35px;
+        height: 35px;
+    }
+
     .header .container .center .box form {
         height: 35px;
     }
